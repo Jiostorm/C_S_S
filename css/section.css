@@ -1,0 +1,68 @@
+.bg-main-color {
+  background-color: #000d1a;
+  color: azure;
+  margin-top: 10px;
+  font-size: 13px;
+}
+
+.main-container {
+  display: grid;
+  grid-template-columns: 25% 75%;
+}
+
+.left-container {
+  grid-column: span 1;
+}
+
+.right-container {
+  grid-column: span 1;
+  visibility: hidden;
+}
+
+.thead-color {
+  background-color: #4d88ff;
+  color: black;
+}
+
+.init-alert {
+  display: none;
+}
+
+.select-style {
+  background-color: white;
+  border: 0;
+  text-align-last: center;
+}
+
+.modal-color {
+  background-color: #151e1e;
+  color: azure;
+}
+
+#section-student-container {
+  margin-top: 2%;
+}
+
+.pagination>li>a {
+  background-color: black !Important;
+  color: azure !Important;
+}
+
+.pagination>li.active>a {
+  background-color: #33bbff !Important;
+  color: black !Important;
+  border: solid 1px #33bbff !Important;
+}
+
+.pagination>.active>a:hover {
+  background-color: #33bbff !Important;
+  color: black !Important;
+  border: solid 1px #33bbff !Important;
+}
+
+.pagination>li>a:focus,
+.pagination>li>a:hover {
+  background-color: #33bbff !Important;
+  color: black !Important;
+  border-color: #33bbff !Important;
+}

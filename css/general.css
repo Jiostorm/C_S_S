@@ -1,0 +1,128 @@
+@font-face {
+  src: url('fonts/roboto/Roboto-Regular.ttf');
+  font-family: roboto;
+}
+
+* {
+  margin: 0;
+  border: 0;
+}
+
+html, body {
+  height: 95%;
+}
+
+body {
+  background-image: url('../assets/Modern.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: courier;
+  background-color: #1a1a1a;
+  color: azure;
+}
+
+input:hover, select:hover {
+  background-color: lightgray;
+}
+
+#user-navbar {
+  visibility: hidden;
+}
+
+/* .outer-container {
+  min-height: 100%;
+}
+
+.outer-container div {
+  overflow: auto;
+}
+
+.footer {
+  background-color: transparent;
+  position: relative;
+  margin-top: -40px;
+  height: 40px;
+  padding-top: 20px;
+  clear: both;
+} */
+.jumbotron {
+  background-color: #262626;
+}
+
+.navbar-style {
+  font-size: 16px;
+}
+
+.navbar-collapse {
+  margin-top: 1%;
+}
+
+.card-deck {
+  margin-top: 4%;
+  font-size: 13px;
+  color: black;
+}
+
+.card-deck .card {
+  border: solid 2px slategray;
+  background-color: lightgray;
+  color: black;
+}
+
+.card-footer a {
+  float: right;
+}
+
+.title {
+  margin-top: 2%;
+}
+
+.breadcrumb {
+  background-color: transparent;
+  border: solid 1px gray;
+}
+
+.breadcrumb-item a {
+  text-decoration: none;
+  color: azure;
+}
+
+.breadcrumb-item a:hover {
+  color: lightgray;
+}
+
+.card-color {
+  background-color: #151e1e;
+  color: azure;
+}
+
+.select-style {
+  background-color: white;
+  border: 0;
+  text-align-last: center;
+}
+
+.ml-auto {
+  margin-top: -1%;
+}
+
+.dropdown-item:hover {
+  background-color: lightgray;
+}
+
+/* .btn-outline-light:hover {
+  background-color: gold;
+  color: black;
+  border: solid 1px gold;
+} */
+a.no-deco {
+  text-decoration: none;
+}
+
+.fas {
+  color: azure;
+}
+
+.fa-inverse {
+  color: black;
+}

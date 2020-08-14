@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  border: 0;
+}
+
+.myheight {
+  height: 150px;
+}
+
+#first {
+  margin-top: 30px;
+  width: 95%;
+  /* background-color: black; */
+}
+
+#mytable {
+  font-size: 18px;
+}

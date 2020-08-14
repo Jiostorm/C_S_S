@@ -1,0 +1,38 @@
+.myheight {
+  height: 150px;
+}
+
+#main {
+  background-color: black;
+}
+
+#mytable {
+  font-size: 18px;
+  align-self: center;
+}
+
+#first {
+  margin-top: 30px;
+  width: 95%;
+}
+
+.textbox {
+  margin-bottom: 10px;
+}
+
+#btn_save {
+  margin-top: 20px;
+}
+
+#search {
+  margin-bottom: 20px;
+}
+
+#idgender {
+  margin-bottom: 10px;
+}
+
+#btnedit,
+#btndel {
+  size: 30%;
+}

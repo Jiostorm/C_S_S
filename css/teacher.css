@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  border: 0;
+}
+
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none;
+  background-color: #fff;
+  border: .05rem solid #fff;
+}
+
+/* body {
+  font-family: 'Courier New', Courier, monospace;
+  background-image: url('../assets/Modern.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: #fff;
+} */
+
+.cover-container {
+  width: 95%;/* max-width: 130em; */
+}
+
+.cover {
+  padding: 0 1.5rem;
+}
+
+.cover .btn-lg {
+  padding: .75rem 1.25rem;
+  font-weight: 700;
+}
+
+.mastfoot {
+  color: rgba(255, 255, 255, .5);
+}

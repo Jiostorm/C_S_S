@@ -1,0 +1,25 @@
+.myheight {
+  height: 150px;
+}
+
+.btnedit {
+  margin-right: 2%;
+}
+
+#first {
+  margin-top: 30px;
+  width: 95%;
+  color: azure;
+}
+
+.textbox {
+  margin-bottom: 10px;
+}
+
+#mytable {
+  font-size: 16px;
+}
+/* #btnadd {
+  margin-left: 1035px;
+  margin-bottom: 20px;
+} */
